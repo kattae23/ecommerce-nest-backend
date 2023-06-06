@@ -3,7 +3,7 @@
 </p>
 
 
-# Teslo API
+# Nest Ecommerce Api
 
 1. Clone repository
 2. ```yarn install```
